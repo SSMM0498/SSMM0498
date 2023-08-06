@@ -6,5 +6,5 @@ I'm an AI Enthusiast 🧠, FullStack🌟 Engineer, and passionate about Golang �
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a challenging project
-- 🌱 I’m currently learning AI, ML
+- 🌱 I’m currently learning AI, ML at Zone01 Dakar
 - 😄 Pronouns: He/him
