@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a challenging project
 - 🌱 I’m currently learning AI, ML at Zone01 Dakar
 - 😄 Pronouns: He/him
+
+[My WebSite](https://www.ssmm0498.com/)
