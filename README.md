@@ -1,12 +1,13 @@
-# Hi there 👋
-##  I'm Serigne Saliou
+# 👋 Hi, I'm Serigne Saliou
 
-I'm an AI Enthusiast 🧠, FullStack🌟 Engineer, and passionate about Python 🐍, Golang ⚓, VueJS👽, ReactJS🚀, Typescript❤️, Node🍀, ExpressJS🤖, NestJS🧩 and NuxtJS 💚. With a 100% backend start, I love the Golang philosophy, but I prefer using the NodeJS stack for its simplicity and efficiency. My passion for drawing has inspired me to add the frontend as a new string to my bow to bring beautiful designs to life with VueJS.
+🤖✨ From a young age, I dreamed of building robots. A reminder from my father later pushed me to turn that dream into reality by choosing computer science 💡💻
 
-Here are some ideas to get you started:
+🧠 Today, I’m an AI enthusiast and Full-Stack Engineer 🌟, working with Python 🐍, Golang ⚓, Node.js 🍀, TypeScript ❤️, Vue.js 👽, React 🚀, and more
 
-- 🔭 I’m currently working on a challenging project
-- 🌱 I’m currently learning AI, ML at Zone01 Dakar
-- 😄 Pronouns: He/him
+⚙️ I started as a backend-focused developer, loving clean architecture and Golang’s philosophy 🏗️, but I now enjoy the flexibility of Node.js for scalable apps 🚀
 
-[My WebSite](https://www.ssmm0498.com/)
+🎨 My passion for drawing led me to frontend development, where I create beautiful and intuitive interfaces with Vue.js 🖌️✨
+
+📚 Currently exploring AI & ML at Zone01 Dakar 🌱
+
+🌐 Website: [www.ssmm0498.com](http://www.ssmm0498.com)
