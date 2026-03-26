@@ -2,7 +2,7 @@
 
 🤖✨ From a young age, I dreamed of building robots. A reminder from my father later pushed me to turn that dream into reality by choosing computer science 💡💻
 
-🧠 Today, I’m an AI enthusiast and Full-Stack Engineer 🌟, working with Python 🐍, Golang ⚓, Node.js 🍀, TypeScript ❤️, Vue.js 👽, React 🚀, and more
+🧠 Today, I’m an AI enthusiast and Full-Stack Engineer 🌟, working with Python 🐍, Golang ⚓, Node.js 🍀, TypeScript ❤️, Vue.js 👽, Nuxt 🚀, and more
 
 ⚙️ I started as a backend-focused developer, loving clean architecture and Golang’s philosophy 🏗️, but I now enjoy the flexibility of Node.js for scalable apps 🚀
 
